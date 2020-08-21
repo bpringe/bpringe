@@ -14,4 +14,4 @@ I'm a passionate software developer who enjoys building things with functional p
 
 - ⚡ Fun fact: I was funded by [Clojurists Together](https://www.clojuriststogether.org/) to work on [Calva](https://github.com/BetterThanTomorrow/calva), for which, during that time, I built an [expression-based debugger](https://calva.io/debugger/).
 
-[![bpringe's github stats](https://github-readme-stats.vercel.app/api?username=bpringe&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![bpringe's github stats](https://github-readme-stats.vercel.app/api?username=bpringe&theme=default&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
