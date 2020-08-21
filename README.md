@@ -13,3 +13,5 @@ I'm a passionate software developer who enjoys building things with functional p
 - 🌱 I’m always learning how to build better, more maintainable and flexible software, how to be more efficient at building applications, and how to work with people more effectively, including collaborating with others and growing great teams. I believe great software is built with good communication and people skills.
 
 - ⚡ Fun fact: I was funded by [Clojurists Together](https://www.clojuriststogether.org/) to work on [Calva](https://github.com/BetterThanTomorrow/calva), for which, during that time, I built an [expression-based debugger](https://calva.io/debugger/).
+
+[![bpringe's github stats](https://github-readme-stats.vercel.app/api?username=bpringe)](https://github.com/anuraghazra/github-readme-stats)
