@@ -1,8 +1,8 @@
-### Hello 👋
+## Hello 👋
 
 I'm a passionate software developer who enjoys building things with functional programming and Clojure(Script).
 
-### About me, at a glance
+## About me, at a glance
 
 - 🔭 I’m currently working on:
 
