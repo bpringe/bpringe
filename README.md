@@ -14,4 +14,6 @@ I'm a passionate software developer who enjoys building things with functional p
 
 - ⚡ Fun fact: I was funded by [Clojurists Together](https://www.clojuriststogether.org/) to work on [Calva](https://github.com/BetterThanTomorrow/calva), for which, during that time, I built an [expression-based debugger](https://calva.io/debugger/).
 
+- :book: Resources that have shaped the way I think about building software: [Out of the Tarpit](http://curtclifton.net/papers/MoseleyMarks06a.pdf), [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month), [The Pragmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer), [Rich Hickey talks](https://github.com/tallesl/Rich-Hickey-fanclub#talks).
+
 [![bpringe's github stats](https://github-readme-stats.vercel.app/api?username=bpringe&theme=default&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
