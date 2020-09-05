@@ -8,7 +8,7 @@ I'm a passionate software developer who enjoys building things with functional p
 
   - [Calva](https://github.com/BetterThanTomorrow/calva), as a primary maintainer. I work closely with the creator of Calva, Peter Strömberg.
   
-  - SimpleFi, a personal finance application idea of mine, built with Clojure and ClojureScript, using pedestal, re-frame, and postgresql. (Not yet released, and a bit of a hobby and learning project, but may turn it into more.)
+  - SimpleFi, a personal finance application idea of mine, built with Clojure and ClojureScript, using pedestal, re-frame, and postgresql. (A bit of a hobby and learning project, but may turn it into more.)
   
   - Learning the [Kappa Architecture](https://milinda.pathirage.org/kappa-architecture.com/), a potentially better way to build information systems. Specifically, learning Kafka and Kafka Streams for building event-driven systems using CQRS and event sourcing.
   
