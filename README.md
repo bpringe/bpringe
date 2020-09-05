@@ -10,7 +10,7 @@ I'm a passionate software developer who enjoys building things with functional p
   
   - SimpleFi, a personal finance application idea of mine, built with Clojure and ClojureScript, using pedestal, re-frame, and postgresql. (Not yet released, and a bit of a hobby and learning project, but may turn it into more.)
   
-  - Learning the [Kappa Architecture](https://milinda.pathirage.org/kappa-architecture.com/), a potentially better way to build information systems. Specifically, learning Kafka and Kafka Streams for building systems using CQRS and event sourcing.
+  - Learning the [Kappa Architecture](https://milinda.pathirage.org/kappa-architecture.com/), a potentially better way to build information systems. Specifically, learning Kafka and Kafka Streams for building event-driven systems using CQRS and event sourcing.
   
 - 🌱 I’m always learning how to build better, more maintainable and flexible software, how to be more efficient at building applications, and how to work with people more effectively, including collaborating with others and growing great teams. I believe great software is built with good communication and people skills.
 
