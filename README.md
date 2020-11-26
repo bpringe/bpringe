@@ -1,8 +1,8 @@
 ## Hello 👋
 
-I'm a passionate software developer who enjoys building things with functional programming and Clojure(Script).
+I'm a passionate software developer who enjoys building systems with functional programming and Clojure(Script), building great teams, and growing and maintaining an open source community.
 
-## About me, at a glance
+# About me, at a glance
 
 - 🔭 I’m currently working on:
 
