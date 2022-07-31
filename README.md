@@ -10,7 +10,7 @@ I'm a passionate software developer who enjoys building systems with functional 
   
   - Co-leading the tech side of a fintech company in the real-estate space, where we use event-driven architecture with Clojure, Kafka, and Kafka Streams to build reliable, easy-to-maintain systems. We also use ClojureScript for mobile and web app development, along with TypeScript for pure components.
   
-- 🌱 I strive to build better, more maintainable and flexible software and to work with people effectively. I believe great software is built with good communication and people skills.
+- 🌱 I strive to build better, more maintainable and flexible software and work with people effectively. I believe great software is built with good communication and people skills.
 
 - ⚡ Fun fact: I've been funded by [Clojurists Together](https://www.clojuriststogether.org/) twice, to work on [Calva](https://github.com/BetterThanTomorrow/calva). During those funding periods, I added an [expression-based debugger](https://calva.io/debugger/), and added static analysis features by integrating [clojure-lsp](https://calva.io/clojure-lsp/).
 
