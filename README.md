@@ -14,6 +14,6 @@ I'm a passionate software developer who enjoys building systems with functional 
 
 - ⚡ Fun fact: I've been funded by [Clojurists Together](https://www.clojuriststogether.org/) twice, to work on [Calva](https://github.com/BetterThanTomorrow/calva). During those funding periods, I added an [expression-based debugger](https://calva.io/debugger/) and static analysis features by integrating [clojure-lsp](https://calva.io/clojure-lsp/).
 
-- :book: Resources that have shaped the way I think about building software: [Out of the Tarpit](http://curtclifton.net/papers/MoseleyMarks06a.pdf), [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month), [The Pragmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer), [Rich Hickey talks](https://github.com/tallesl/Rich-Hickey-fanclub#talks).
+- :book: Resources that have shaped the way I think about building software: [Out of the Tarpit](http://curtclifton.net/papers/MoseleyMarks06a.pdf), [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month), [The Pragmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer), [Release It!](https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software/dp/1680502395), ([Rich Hickey talks](https://github.com/tallesl/Rich-Hickey-fanclub#talks).
 
 [![bpringe's github stats](https://github-readme-stats.vercel.app/api?username=bpringe&theme=default&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
