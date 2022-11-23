@@ -4,7 +4,7 @@ I'm a passionate software developer who enjoys building systems with functional 
 
 # About me, at a glance
 
-- 🔨 Building a company and platform that makes home seller financing easier: [HonestDeed](https://honestdeed.com/).
+- 🔨 Co-founder and Co-VP of Engineering of [HonestDeed](https://honestdeed.com/).
 
 - 🔭 I’m currently working on:
 
