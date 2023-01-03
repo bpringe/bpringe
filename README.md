@@ -2,7 +2,7 @@
 
 I'm a passionate software developer who enjoys building systems with functional programming and Clojure(Script), building great teams, and growing and maintaining an open source community.
 
-# About me, at a glance
+## About me, at a glance
 
 - 🏠 Co-founder and Co-VP of Engineering at [HonestDeed](https://honestdeed.com/), where we use event-driven architecture with Clojure, Kafka, and Kafka Streams to build reliable, easy-to-maintain systems. We also use ClojureScript for mobile and web app development, along with TypeScript for pure components.
 
