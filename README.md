@@ -4,7 +4,7 @@ I'm a passionate software developer who enjoys building systems with functional 
 
 ## About me, at a glance
 
-- 🏠 Co-founder and Co-VP of Engineering at [HonestDeed](https://honestdeed.com/), where we use event-driven architecture with Clojure, Kafka, and Kafka Streams to build reliable, easy-to-maintain systems. We also use ClojureScript for mobile and web app development, along with TypeScript for pure components.
+- 🏠 My previous role: Co-founder and Co-VP of Engineering at [HonestDeed](https://honestdeed.com/), where we used an event-driven architecture with Clojure, Kafka, and Kafka Streams to build reliable, easy-to-maintain systems. We also used ClojureScript for mobile and web app development, along with TypeScript for pure components.
 
 - 🔧 Co-maintainer of [Calva](https://github.com/BetterThanTomorrow/calva).
   
