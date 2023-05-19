@@ -4,6 +4,8 @@ I'm a passionate software developer who enjoys building systems with functional 
 
 ## About me, at a glance
 
+- 🌙 My current role: Senior Softeware Engineer at [Crescent](https://www.crescent.app/), where we use Clojure and Datomic to power a platform for companies to park idle cash, earn a good rate on it, and protect it with FDIC insurance.
+
 - 🏠 My previous role: Co-founder and Co-VP of Engineering at [HonestDeed](https://honestdeed.com/), where we used an event-driven architecture with Clojure, Kafka, and Kafka Streams to build reliable, easy-to-maintain systems. We also used ClojureScript for mobile and web app development, along with TypeScript for pure components.
 
 - 🔧 Co-maintainer of [Calva](https://github.com/BetterThanTomorrow/calva).
