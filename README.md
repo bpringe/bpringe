@@ -1,4 +1,4 @@
-## Hello 👋
+## Hi 👋
 
 I'm a passionate software developer who enjoys building systems with functional programming and Clojure(Script).
 
