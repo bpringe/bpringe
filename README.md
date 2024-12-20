@@ -2,7 +2,7 @@
 
 I'm a passionate software developer who enjoys building systems with functional programming and Clojure(Script).
 
-## About me, at a glance
+## Me, at a glance
 
 - 💻 My previous two roles:
   - Senior Software Engineer and Head of Engineering at [Crescent](https://www.getcrescent.com/), where we used Datomic and Clojure to build and maintain a robust backend to support our brokerage and business checking account products.
