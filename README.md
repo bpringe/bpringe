@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I'm a passionate software developer who enjoys building systems with functional programming and Clojure(Script).
+I'm a passionate software engineer and manager who enjoys building systems with functional programming and Clojure(Script).
 
 ## Me, at a glance
 
