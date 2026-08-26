@@ -4,7 +4,11 @@ I'm a passionate software developer who enjoys building systems with functional 
 
 ## Me, at a glance
 
-- 💻 My previous two roles:
+- 🤝 My current role
+  - Senior Manager of Engineering, leading the data platform team at [Ladder](https://www.ladderlife.com/)
+
+- 💻 My previous roles:
+  - Staff Engineer at [Ladder](https://www.ladderlife.com/) on the data platform team
   - Senior Software Engineer and Head of Engineering at [Crescent](https://www.getcrescent.com/), where we used Datomic and Clojure to build and maintain a robust backend to support our brokerage and business checking account products.
   - Co-founder and Co-VP of Engineering at [HonestDeed](https://honestdeed.com/), where we used an event-driven architecture with Clojure, Kafka, and Kafka Streams to build reliable, easy-to-maintain systems. We also used ClojureScript for mobile and web app development, along with TypeScript for pure components.
 
